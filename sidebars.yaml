@@ -1,0 +1,7 @@
+- page: index.md
+  label: Home
+- page: about.md
+- page: style-guide.md
+- group: Museum API
+  page: apis/openapi.yaml
+
